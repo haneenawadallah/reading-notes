@@ -1,6 +1,8 @@
-# Code 201 Reading Notes
+
+<div align="center"> # Code 201 Reading Notes
 ![reading notes](https://i.imgur.com/ySvG8Rd.jpg)
 **Here you will find all of my 201 course reading notes**
+:cherry_blossom: :cherry_blossom: :cherry_blossom: :cherry_blossom: :cherry_blossom: :cherry_blossom: :cherry_blossom: 
 
 | READ  | LINK |
 | ------------- | ------------- |
@@ -21,5 +23,7 @@
 | Read 15  | [Click here]() |
 
 
+:cherry_blossom: :cherry_blossom: :cherry_blossom: :cherry_blossom: :cherry_blossom: :cherry_blossom: :cherry_blossom:
+</div>
 
 
