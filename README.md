@@ -1,1 +1,25 @@
-# reading-notes
+# Code 201 Reading Notes
+![reading notes](https://i.imgur.com/ySvG8Rd.jpg)
+**Here you will find all of my 201 course reading notes**
+
+| READ  | LINK |
+| ------------- | ------------- |
+| Read 1   | [Click here]() |
+| Read 2   | [Click here]() |
+| Read 3   | [Click here]() |
+| Read 4   | [Click here]() |
+| Read 5   | [Click here]() |
+| Read 6   | [Click here]() |
+| Read 7   | [Click here]() |
+| Read 8   | [Click here]() |
+| Read 9   | [Click here]() |
+| Read 10  | [Click here]() |
+| Read 11  | [Click here]() |
+| Read 12  | [Click here]() |
+| Read 13  | [Click here]() |
+| Read 14  | [Click here]() |
+| Read 15  | [Click here]() |
+
+
+
+
