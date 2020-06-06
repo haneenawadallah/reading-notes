@@ -4,7 +4,7 @@
 **Here you will find all of my 201 course reading notes**
 
 
-:cherry_blossom: :cherry_blossom: :cherry_blossom: :cherry_blossom: :cherry_blossom: :cherry_blossom: :cherry_blossom: 
+ :cherry_blossom: 
 
 | READ  | LINK |
 | ------------- | ------------- |
@@ -25,7 +25,7 @@
 | Read 15  | [Click here]() |
 
 
-:cherry_blossom: :cherry_blossom: :cherry_blossom: :cherry_blossom: :cherry_blossom: :cherry_blossom: :cherry_blossom:
+ :cherry_blossom: 
 
 
 
