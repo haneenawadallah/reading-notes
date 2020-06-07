@@ -9,7 +9,7 @@
 | READ  | LINK |
 | ------------- | ------------- |
 | Read 1   | [Click here](https://haneenawadallah.github.io/reading-notes/class01) |
-| Read 2   | [Click here]() |
+| Read 2   | [Click here](https://haneenawadallah.github.io/reading-notes/class-02) |
 | Read 3   | [Click here]() |
 | Read 4   | [Click here]() |
 | Read 5   | [Click here]() |
