@@ -13,7 +13,7 @@
 | Read 3   | [Click here](https://haneenawadallah.github.io/reading-notes/class-03) |
 | Read 4   | [Click here](https://haneenawadallah.github.io/reading-notes/class04) |
 | Read 5   | [Click here](https://haneenawadallah.github.io/reading-notes/class05) |
-| Read 6   | [Click here]() |
+| Read 6   | [Click here](https://haneenawadallah.github.io/reading-notes/class06) |
 | Read 7   | [Click here]() |
 | Read 8   | [Click here]() |
 | Read 9   | [Click here]() |
