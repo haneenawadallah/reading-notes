@@ -18,7 +18,7 @@
 | Read 8   | [Click here](https://haneenawadallah.github.io/reading-notes/class08) |
 | Read 9   | [Click here](https://haneenawadallah.github.io/reading-notes/class09) |
 | Read 10  | [Click here](https://haneenawadallah.github.io/reading-notes/class10) |
-| Read 11  | [Click here]() |
+| Read 11  | [Click here](https://haneenawadallah.github.io/reading-notes/class11) |
 | Read 12  | [Click here]() |
 | Read 13  | [Click here]() |
 | Read 14  | [Click here]() |
